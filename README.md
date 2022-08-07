@@ -6,7 +6,7 @@
 #
 #
 ## 📫 How to reach me - Facebook profile : https://www.facebook.com/georgi.lukanov.16
-## 💬 My @mails :  goshiii87@gmail.com  or  badgosho@abv.bg
+## 🌎 My @mails :  goshiii87@gmail.com  or  badgosho@abv.bg
 ## 💭 My Phone number : +34 / 697 24 34 24 (Spain, Valencia)
 
 ## This is my Pastebin profile: 👁️‍🗨️ https://pastebin.com/u/GeorgiLukanov87 👁️‍🗨️

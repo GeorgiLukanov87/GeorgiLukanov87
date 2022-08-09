@@ -12,3 +12,5 @@
 ## Succesfully completed course - Programming and Basics🐍Python🐍
 
 ![certificated-Georgi_Lukanov-Python-Basics-march-2022](https://user-images.githubusercontent.com/102332504/182883289-4bb2ba16-75b4-4a24-b627-a742b5f8fa77.jpg)
+## Succesfully completed course - Programming Fundamentals🐍Python🐍
+![Programming Fundamentals Python May 2022 Certificate](https://user-images.githubusercontent.com/102332504/183717536-9fbd1ca3-b774-429e-bf81-27b94c77a2ff.jpeg)

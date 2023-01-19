@@ -7,5 +7,6 @@
 ## 🌎 My @mails :  goshiii87@gmail.com
 ## 💭 My Phone number : +34 / 697 24 34 24 (Spain, Valencia)
 ## This is my Pastebin profile: 👁️‍🗨️ https://pastebin.com/u/GeorgiLukanov87 👁️‍🗨️
-
+## Skills:
+[![My Skills](https://skillicons.dev/icons?i=python,js,visualstudio,nodejs,html,css,postgres,&theme=light)](https://skillicons.dev)
 

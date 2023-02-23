@@ -10,7 +10,7 @@
                           SKILLS:
 [![My Skills](https://skillicons.dev/icons?i=python,js,visualstudio,nodejs,html,css,postgres,django,&theme=light)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgiLukanov87&layout=compact)](https://github.com/GeorgiLukanov87/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgiLukanov87&hide_progress=true)](https://github.com/GeorgiLukanov87/github-readme-stats)
 
 ![ezgif-3-54999bca47](https://user-images.githubusercontent.com/102332504/215296755-a9510c14-8ea4-40bf-89e6-ffac4837dded.gif)
 

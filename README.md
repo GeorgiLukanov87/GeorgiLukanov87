@@ -1,4 +1,4 @@
-
+#
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0C35F7&background=1BD4FF00&width=500&height=80&lines=Hello%2C+My+name+is+Jorge+St.Lukanov;%23+I+am+student+in+%F0%9F%9A%80+SoftUni+%F0%9F%9A%80;%23+I%E2%80%99m+currently+learning%F0%9F%90%8DPython%F0%9F%90%8D)](https://git.io/typing-svg)

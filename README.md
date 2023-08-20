@@ -2,7 +2,7 @@
 ![vjt10ayttko9zcrzhkrb1](https://user-images.githubusercontent.com/102332504/210785129-09790229-91f3-4588-8fde-d88cbd8d7b55.gif)
 ## 📫 How to reach me - Facebook: https://www.facebook.com/georgi.lukanov.16
 ## 🌎 My @mail:  goshiii87@gmail.com
-## 💭 My Phone number: +34 / 697 24 34 24
+## 💭 My Phone number: +34/697 24 34 24
 ## Pastebin profile: 👁️‍🗨️ https://pastebin.com/u/GeorgiLukanov87 👁️‍🗨️
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgiLukanov87&layout=compact)](https://github.com/GeorgiLukanov87/github-readme-stats) ,[![My Skills](https://skillicons.dev/icons?i=python,js,visualstudio,nodejs,html,css,postgres,django,&theme=light)](https://skillicons.dev),
 

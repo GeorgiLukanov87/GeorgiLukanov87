@@ -6,6 +6,6 @@
 ## 💭 My Phone number 2: +34/697243424          
 ## Pastebin profile: 👁️‍🗨️ https://pastebin.com/u/GeorgiLukanov87 👁️‍🗨️
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgiLukanov87&layout=compact)](https://github.com/GeorgiLukanov87/github-readme-stats) 
-[![My Skills](https://skillicons.dev/icons?i=py,js,react,html,css,vscode,idea,nodejs,postgres,django,docker,git,sql,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,react,html,css,vscode,idea,postgres,django,docker,git,sql,)](https://skillicons.dev)
 
 ![ezgif-3-54999bca47](https://user-images.githubusercontent.com/102332504/215296755-a9510c14-8ea4-40bf-89e6-ffac4837dded.gif)

@@ -2,8 +2,7 @@
 ![vjt10ayttko9zcrzhkrb1](https://user-images.githubusercontent.com/102332504/210785129-09790229-91f3-4588-8fde-d88cbd8d7b55.gif)
 ## Portfolio: https://georgilukanov87.pythonanywhere.com/
 ## 🌎 My @mail:  GeorgiStefanovLukanov@gmail.com
-## 💭 My Phone number 1: +359/893993157
-## 💭 My Phone number 2: +34/697243424          
+## 💭 Phone number: +34697243424          
 ## Pastebin profile: 👁️‍🗨️ https://pastebin.com/u/GeorgiLukanov87 👁️‍🗨️
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgiLukanov87&layout=compact)](https://github.com/GeorgiLukanov87/github-readme-stats) 
 [![My Skills](https://skillicons.dev/icons?i=py,js,react,html,css,vscode,idea,postgres,django,docker,git,sql,)](https://skillicons.dev)
